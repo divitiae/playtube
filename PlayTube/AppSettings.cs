@@ -13,7 +13,7 @@ namespace PlayTube
     public static class AppSettings
     {
         //Main Settings >>>>> 
-        public static string TripleDesAppServiceProvider = "XzpkswtsEcWvKZJFBYbe5RHCbI/mNCAFRFJBh/O4Gg/h03mBeMCVF2/ZFV8/p+6WAsuRlWkChfn7BJ1IM0O1WpztUp+oUGEtNuHCtpabQ/lyTMriCdhAVSUD1w5t1+lZDLuJPUGQT1WCU6J/iE/fvtmqG6LhvOyq14Y+M6N5hBSKMfjdPOhkvvW37FqfZ+TkQgE+WmaDLIf85IxL/TUQ+u5oX29/Sjl2eMIz0OTwFkBTtWOuU/APc6OjqU6pPWo4OQxYS2KB8N/tD2ZTCWy9Kg==";
+        public static string TripleDesAppServiceProvider = "XzpkswtsEcWvKZJFBYbe5fTylXy6QFbaxacr6zqgVCWUyVHAA18bcOcerZmfaEfwlExiswDfRpYp1lhmyBMXMXrxXLxoVetRuGMyuUOlvXNWCYE5/nZIngEsuklDoo+D4KYiXAaYNkuiO2XoYO3rk6dzWpzvlPnA84u2WU+/SzFwxKvGKxhM7LnUoYHHiZhk3997DA6fYL3aEQTkkzG0L9QrJhNA6tv1Tmye/99yxGk8C7L3ZX8e+TNkfJZHnE1x";
         
         //********************************************************* 
         public static string ApplicationName = "PlayTube";
